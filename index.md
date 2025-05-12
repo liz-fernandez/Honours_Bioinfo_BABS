@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BABS Honours Bioinformatics Course 2024
+title: BABS Honours & 1st year PhD Bioinformatics Course 2025
 ---
 
 The Unix shell has been around longer than most of its users have been alive.
@@ -61,7 +61,7 @@ These lessons will start you on a path towards using these resources effectively
 
 ## Topics
 
-### Week 1 - Linux Shell
+### Day 1 - Linux Shell
 
 1.  [Introducing the Shell](00-intro_Shell.html)
 2.  [Files and Directories](01-filedir_Shell.html)
@@ -71,9 +71,11 @@ These lessons will start you on a path towards using these resources effectively
 6.  [Shell Scripts](05-script_Shell.html)
 7.  [Finding Things](06-find_Shell.html)
 
-### Week 2 - Introduction to Python
+### Day 2 - Introduction to Python
 
 [Python setup](00-setup_Python.html)
+
+<!--
 
 1.  [Python fundamentals](01-intro_Python.html)
 2.  [Analyzing Patient Data](02-numpy_Python.html)
@@ -84,11 +86,9 @@ These lessons will start you on a path towards using these resources effectively
 7.  [Making Choices](07-cond_Python.html)
 8.  [Creating Functions](08-func_Python.html)
 9.  [Errors and Exceptions](09-errors_Python.html)
-10. [Defensive Programming](10-defensive_Python.html)
-11. [Debugging](11-debugging_Python.html)
-12. [Command-Line Programs](12-chtmlline_Python.html)
+10. [Debugging](11-debugging_Python.html)
 
-### Week 3 - Introduction to R
+### Day 3 - Introduction to R
 
 1.  [Introduction to R and RStudio](01-rstudio-intro_R.html)
 2.  [Project Management With RStudio](02-project-intro_R.html)
@@ -98,7 +98,18 @@ These lessons will start you on a path towards using these resources effectively
 6.  [Subsetting Data](06-data-subsetting_R.html)
 7.  [Control Flow](07-control-flow_R.html)
 8.  [Creating Publication-Quality Graphics with ggplot2](08-plot-ggplot2_R.html)
+
+#------------------------------------------
+
+# Removed from Python
+
+10. [Defensive Programming](10-defensive_Python.html)
+12. [Command-Line Programs](12-chtmlline_Python.html)
+
+# Removed from R
+
 9.  [Vectorization](09-vectorization_R.html)
 10. [Functions Explained](10-functions_R.html)
 11. [Writing Data](11-writing-data_R.html)
 
+-->
