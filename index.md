@@ -63,6 +63,7 @@ These lessons will start you on a path towards using these resources effectively
 
 ### Day 1 - Linux Shell
 
+<!--
 1.  [Introducing the Shell](00-intro_Shell.html)
 2.  [Files and Directories](01-filedir_Shell.html)
 3.  [Creating Things](02-create_Shell.html)
@@ -75,7 +76,6 @@ These lessons will start you on a path towards using these resources effectively
 
 [Python setup](00-setup_Python.html)
 
-<!--
 
 1.  [Python fundamentals](01-intro_Python.html)
 2.  [Analyzing Patient Data](02-numpy_Python.html)
