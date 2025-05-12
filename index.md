@@ -39,7 +39,7 @@ These lessons will start you on a path towards using these resources effectively
 > 5. Double click on the folder named 'yourzID's Home'
 > 5. Make a new folder in your Desktop called 'Bioinfo_Course' and double click it.
 > 6. Download data-shell-dir.zip by opening and internet browser and navigating to the following url:
-> [https://liz-fernandez.github.io/Honours_Bioinfo_2024/DATA/data-shell-dir.zip](https://liz-fernandez.github.io/Honours_Bioinfo_2024/DATA/data-shell-dir.zip)
+> [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/data-shell-dir.zip](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/data-shell-dir.zip)
 > 7. Move the 'data-shell-dir.zip' file inside the 'Bioinfo_Course' folder.
 > 8. Close your FastX Desktop browser tab. 
 > 9. Click the red 'Delete' button. 
