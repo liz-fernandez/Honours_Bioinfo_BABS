@@ -72,7 +72,7 @@ following commands:
 
 ~~~ {.bash}
 cd /home/your_zID/ondemand/data/sys/dashboard/batch_connect/db/
-wget https://liz-fernandez.github.io/Honours_Bioinfo_2024/DATA/python-novice-inflammation-data.zip
+wget https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/python-novice-inflammation-data.zip
 unzip python-novice-inflammation-data.zip
 ~~~
 
