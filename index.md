@@ -75,7 +75,6 @@ These lessons will start you on a path towards using these resources effectively
 
 [Python setup](00-setup_Python.html)
 
-<!--
 
 1.  [Python fundamentals](01-intro_Python.html)
 2.  [Analyzing Patient Data](02-numpy_Python.html)
@@ -88,6 +87,7 @@ These lessons will start you on a path towards using these resources effectively
 9.  [Errors and Exceptions](09-errors_Python.html)
 10. [Debugging](11-debugging_Python.html)
 
+<!--
 ### Day 3 - Introduction to R
 
 1.  [Introduction to R and RStudio](01-rstudio-intro_R.html)
