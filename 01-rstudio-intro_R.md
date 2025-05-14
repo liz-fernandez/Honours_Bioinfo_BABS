@@ -133,8 +133,7 @@ The simplest thing you could do with R is to do arithmetic:
 ~~~
 
 And R will print out the answer, with a preceding "[1]". [1] is the index of
-the first element of the line being printed in the console. For more information
-on indexing vectors, see [Episode 6: Subsetting Data](https://swcarpentry.github.io/r-novice-gapminder/06-data-subsetting/index.html).
+the first element of the line being printed in the console. 
 
 If you type in an incomplete command, R will wait for you to
 complete it. If you are familiar with Unix Shell's bash, you may recognize this behavior from bash.
