@@ -91,7 +91,6 @@ These lessons will start you on a path towards using these resources effectively
 
 1.  [Introduction to R and RStudio](01-rstudio-intro_R.html)
 
-<!--
 2.  [Project Management With RStudio](02-project-intro_R.html)
 3.  [Seeking Help](03-seeking-help_R.html)
 4.  [Data Structures](04-data-structures-part1_R.html)
@@ -100,6 +99,7 @@ These lessons will start you on a path towards using these resources effectively
 7.  [Control Flow](07-control-flow_R.html)
 8.  [Creating Publication-Quality Graphics with ggplot2](08-plot-ggplot2_R.html)
 
+<!--
 #------------------------------------------
 
 # Removed from Python
