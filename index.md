@@ -87,10 +87,11 @@ These lessons will start you on a path towards using these resources effectively
 9.  [Errors and Exceptions](09-errors_Python.html)
 10. [Debugging](11-debugging_Python.html)
 
-<!--
 ### Day 3 - Introduction to R
 
 1.  [Introduction to R and RStudio](01-rstudio-intro_R.html)
+
+<!--
 2.  [Project Management With RStudio](02-project-intro_R.html)
 3.  [Seeking Help](03-seeking-help_R.html)
 4.  [Data Structures](04-data-structures-part1_R.html)
