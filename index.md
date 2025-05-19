@@ -105,6 +105,7 @@ These lessons will start you on a path towards using these resources effectively
 
 #### Michael
 * Data for this practical can be downloaded here: [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Michael/interactive_plots.zip](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Michael/interactive_plots.zip)
+* Jupyter Notebook: [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Michael/interactive_plots.zip](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Michael/Interactive_plots_with_plotly.ipynb)
 
 #### Julia
 * Coding examples: [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Julia/Coding_Examples.pdf](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Julia/Coding_Examples.pdf)
