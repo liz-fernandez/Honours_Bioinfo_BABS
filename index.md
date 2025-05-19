@@ -100,6 +100,18 @@ These lessons will start you on a path towards using these resources effectively
 9. [Functions Explained](10-functions_R.html)
 10. [Writing Data](11-writing-data_R.html)
 
+
+### Day 4 - Real Life Examples
+
+#### Michael
+* Data for this practical can be downloaded here: [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Michael/interactive_plots.zip](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Michael/interactive_plots.zip)
+
+#### Julia
+* Coding examples: [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Julia/Coding_Examples.pdf](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Julia/Coding_Examples.pdf)
+* CSV file:
+  [https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Julia/unnormalisedcoverages2021to2024.csv](https://liz-fernandez.github.io/Honours_Bioinfo_BABS/DATA/Julia/unnormalisedcoverages2021to2024.csv)
+
+
 <!--
 #------------------------------------------
 
